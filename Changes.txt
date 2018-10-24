@@ -1,2 +1,4 @@
 Gelöscht: emoji.pgn
 Neu: image.pgn
+
+Änderungen von Andreas Moser!!!
